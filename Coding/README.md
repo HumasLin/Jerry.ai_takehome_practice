@@ -1,5 +1,7 @@
 Author: Haomin Lin
+
 Phone Number: 4044330697
+
 Email: humaslin97@gatech.edu
 
 Description: This program realize manipulation of disjoint intervals. It runs by input desired value pairs to constrcut and manage disjoint intervals. Please follow the prompts given by the program.
